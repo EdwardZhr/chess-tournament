@@ -1,4 +1,4 @@
-# Chess tournament landing page
+# Chess tournament
 
 ## О проекте:
 Лендинг шамхатного турнира по мотивам романа "Двенадцать стульев".  
